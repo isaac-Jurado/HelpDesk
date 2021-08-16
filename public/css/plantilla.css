@@ -1,0 +1,31 @@
+@font-face {
+  font-family: JAi;
+  src: url(../font/JAi.TTF);
+}
+body {
+  background: url('../img/remolino-de-colores-abstracto_3840x2160_xtrafondos.com.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: JAi;
+}
+.h{
+  border-color: black;
+  border-radius: 1cm;
+  border-width: 3px;
+}
+.tabla{
+  font-size: 18px;
+ font-family: Arial, Helvetica, sans-serif;
+  
+}
+.carD{
+  background-color: rgba(15, 192, 74, 0.466)
+}
+.ro{
+  background-color: rgba(42, 223, 240, 0.397);
+}
+.ro:hover{
+  zoom: 1.3;
+}
